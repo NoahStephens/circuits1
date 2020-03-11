@@ -1,0 +1,12 @@
+* C:\Users\nstep\Desktop\stephensAD2\Draft3.asc
+XU1 0 N001 N002 0 0 LT1001
+R1 N001 0 125
+R§250 N001 0 250
+R3 N001 0 100
+R4 N001 0 166.6667
+R5 0 N001 1k
+V5 N002 0 10
+.op
+.lib LTC.lib
+.backanno
+.end
